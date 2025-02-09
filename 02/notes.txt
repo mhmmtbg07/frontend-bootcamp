@@ -1,0 +1,5 @@
+Frontend ve Backend kavramları nedir ? 
+Frontend de neler yapılır ?
+Backendde neler yapılır ? 
+Frontend kullanıcın gördüğü arayüz
+Backend ise kullanıcın göremediği arka plan fonkisyonlarının gerçekleştiği bölümdür.
