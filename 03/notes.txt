@@ -1,0 +1,3 @@
+Vs code kurulum ve Extansion plugin ayarları vb. kolaylıkların tanıtımları
+Emmet shortcuts nelerdir ?
+HTML Emmet shortcuts
