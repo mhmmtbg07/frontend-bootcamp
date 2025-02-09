@@ -1,0 +1,9 @@
+Bu kursta neler öğreneceğim ?
+Bu kursta nelere dikkat etmem gerek ?
+Kursun müfredatı - öğreneceğim işaretleme ve programlama dilleri neler olacak
+bu yazılım dillerinin tanımı ve açıklaması (başlangıç seviye)
+HTML
+CSS
+BOOTSTRAP
+JS
+JQUERY
