@@ -1,0 +1,4 @@
+div Elementi inline-block bir elemnt olduğu 
+için daha esnek bir yapı
+ve kaliteli bir olanak sağlıyor 
+buyüzden genellikle div kullanılıyor !
