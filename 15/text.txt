@@ -1,0 +1,8 @@
+1- Inline Elementler --> Kendi Çapında yer kaplar
+ve yan yana yazılabilir (width-height özellikler gelemez)
+
+2- Block Elementler  --> Tüm satırı kapsar ve yanına elemnt yerleşemez 
+(width-height gibi özellikler gelebilir fakat hala yanına elemntler gelemez)
+
+3- Inline-Block Elementler --> hem inline hem block özellik gösterir
+(width-height özellikler verilebilmesine rağmen yanına elemenler gelebilir)
