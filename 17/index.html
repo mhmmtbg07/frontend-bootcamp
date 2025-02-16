@@ -3,13 +3,38 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Form elementleri</title>
+    <meta name="developer" content="Muhammet BAĞ" />
+    <title>Form Tags</title>
   </head>
   <body>
-    <!--*İnput = Bilgileri yazmamızı sağlar,"type" ise seçeneği ayarlar "placeholder" içine mesaj yazar -->
     <form>
-      Kullanıcı Adı : <input type="text" placeholder="Adınız" /> Şifreniz :
-      <input type="password" placeholder="Şifreniz" />
+      <!--"placeholder" for in box text-->
+      <input type="text" placeholder="User Name" />
+      <input type="password" placeholder="Password" />
+      <input type="email" placeholder="E-mail" /> <br />
+      <!--"checkbox" for select box-->
+      Reading Book <input type="checkbox" id="bookcheck" /> <br />
+      Doing Sport <input type="checkbox" id="sportcheck" /> <br />
+      <!--"radio" for circle selects-->
+      Woman <input type="radio" name="genderradio" checked /> <br />
+      <!--checked for auto select-->
+      Man <input type="radio" name="genderradio" checked />
+      <!--"file" for file selects-->
+      <input type="file" /> Drinks
+      <select>
+        <!--"value" for backend system-->
+        <option value="None">None</option>
+        <option value="Tea">Tea</option>
+        <option value="Coffe">Coffe</option>
+        <option value="Lemonade">Lemonade</option>
+      </select>
+      <br />
+      <br />
+      <!--<textarea> for user message-->
+      <textarea name="MessageInput" cols="70" rows="10"></textarea> <br />
+      <!--"value" for button input text-->
+      <input type="submit" value="Push" />
+      <input type="reset" value="Clear" />
     </form>
   </body>
 </html>
