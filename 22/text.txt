@@ -1,0 +1,5 @@
+How to write CSS
+*External
+*Internal
+*Inline
+type of CSS using
