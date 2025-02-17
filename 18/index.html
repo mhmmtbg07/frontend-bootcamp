@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Form Exercise</title>
+  </head>
+  <body>
+    <form>
+      <table>
+        <tr>
+          <!--Name-->
+          <td>Name :</td>
+          <td><input type="text" placeholder="Name" /></td>
+        </tr>
+        <tr>
+          <!--Surname-->
+          <td>Surname :</td>
+          <td><input type="text" placeholder="Surname" /></td>
+        </tr>
+        <tr>
+          <!--Email-->
+          <td>E-mail :</td>
+          <td><input type="email" placeholder="E-mail" /></td>
+        </tr>
+        <tr>
+          <!--Password-->
+          <td>Password :</td>
+          <td><input type="password" placeholder="Password" /></td>
+        </tr>
+        <tr>
+          <!--Gender-->
+          <td>Gender :</td>
+          <td>
+            <!--"span" for inline element-->
+            <span>Male</span>
+            <input type="radio" name="genderadio" />
+            <span>Female</span>
+            <input type="radio" name="genderadio" />
+          </td>
+        </tr>
+        <tr>
+          <!--Birthday-->
+          <td>Birthday :</td>
+          <td><input type="date" /></td>
+        </tr>
+        <tr>
+          <!--Hobbys-->
+          <th colspan="2">Hobys</th>
+        </tr>
+        <td>Reading Book</td>
+        <td><input type="checkbox" /></td>
+        <tr>
+          <td>Sport</td>
+          <td><input type="checkbox" /></td>
+        </tr>
+        <tr>
+          <!--File-->
+          <td colspan="2"><input type="file" /></td>
+        </tr>
+        <tr>
+          <!--User Message-->
+          <td>
+            <textarea
+              cols="30"
+              rows="10"
+              placeholder="Message in here"
+            ></textarea>
+          </td>
+        </tr>
+        <tr>
+          <!--Privacy-->
+          <td>Readed, Accept</td>
+          <td><input type="radio" name="radio" /></td>
+        </tr>
+        <tr>
+          <td>Readed, Decline</td>
+          <td><input type="radio" name="radio" /></td>
+        </tr>
+        <tr>
+          <!--Buttons-->
+          <td colspan="2">
+            <input type="submit" value="Push" />
+            <input type="reset" value="Reset" />
+          </td>
+        </tr>
+      </table>
+    </form>
+  </body>
+</html>
