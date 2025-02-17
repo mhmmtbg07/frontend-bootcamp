@@ -1,0 +1,12 @@
+/*tag*/
+h2 {
+  color: blueviolet;
+}
+/*class "."*/
+.last {
+  color: red;
+}
+/*ID*/
+#middle {
+  background-color: aqua;
+}

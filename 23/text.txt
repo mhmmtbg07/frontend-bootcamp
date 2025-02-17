@@ -1,0 +1,4 @@
+ID , Class'es and tags 
+class for "."
+ID for "#"
+tag for "<name of tag>"
