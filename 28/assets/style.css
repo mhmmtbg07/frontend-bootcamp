@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+/*! size-tip-color */
+/* TODO border types* /
+/*? dotted */
+/*? solid */
+/*? dashed */
+/*? groove */
+/*? ridge */
+/*? inset */
+/*? outset */
+
+.box-1 {
+    background-color: lightblue;
+    border: 10px groove red;
+    width: 300px;
+    height: 300px;
+}
+
+.box-2 {
+    /*radius*/
+    background-color: gray;
+    width: 300px;
+    height: 300px;
+    border-radius: 100px;
+}
