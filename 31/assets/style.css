@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+/*
+TODO Padding = İç katman
+! Padding "top-right-bottom-left"
+*/
+
+.box {
+    background-color: chocolate;
+    width: 50%;
+    height: 250px;
+    padding: 30px 50px;
+    margin-left: 200px;
+}
+
+.box h1 {
+    padding: 30px 0px;
+}
+
+.box p {
+    padding: 20px 0px;
+}
