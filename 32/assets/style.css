@@ -1,0 +1,27 @@
+/* p {
+    display: block;
+    width: 200px;
+    height: 200px;
+}
+
+a {
+    display: inline;
+    width: 200px;
+    height: 200px;
+}*/
+.box1 {
+    display: inline-block;
+    width: 200px;
+    height: 200px;
+    background-color: red;
+}
+.box2 {
+/*
+? inline gibi yan yana geçebiliyor
+? Block gibi genişlik verilebiliyor
+*/
+    display: inline-block;
+    width: 200px;
+    height: 200px;
+    background-color: grey;
+}
