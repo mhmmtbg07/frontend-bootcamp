@@ -1,0 +1,25 @@
+.p1 {
+    color:  rgb(113, 4, 115);
+    background-color: crimson;
+    text-align: center;
+    /*text-align: start;
+    text-align: left;
+    text-align: right;*/
+}
+
+.p2 {
+    color: lightgray;
+    background-color: black;
+    text-align: center;
+    text-transform: uppercase;
+    text-decoration: underline;
+    font-weight: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: italic;
+    letter-spacing: 5px;
+    word-spacing: 12px;
+}
+
+a {
+    text-decoration: none;
+}
