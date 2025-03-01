@@ -1,0 +1,37 @@
+* {
+    /*Tüm Elementleri seçiyor*/
+    margin: 0;
+    padding: 0;
+}
+
+/* p {
+    color: red;
+} */
+
+/* p , h3
+    "," ve anlamına gelir 1'den fazla elemnti seçer
+*/
+
+/* div p {
+    "space" icindeki elementleri seçer()
+    color: red;
+}*/
+
+/* div>p {
+     ">"Parentı "div" olan p elementlerini seçer
+    color: red;
+} */
+
+/* div>p:first-child {
+ "parentı div olan tüm p elementlerinden ilkini seç 
+    color: red
+} */
+
+/* div>p:last-child {
+ "parentı div olan tüm p elementlerinden sonuncuyu seç
+    color: red
+} */
+
+/* div>p:nth-child(3){
+    "nth" inci-ıncı demektir '' 3-üncü çocuğu seçer
+} */
