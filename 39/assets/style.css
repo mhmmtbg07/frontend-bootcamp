@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#table {
+    width: 100%;
+}
+
+#table,th,td {
+    border: 2px solid black;
+    /*boşlukları tamamlar*/
+    border-collapse: collapse;
+}
+
+#table th {
+    background-color: green;
+    color: #fff;
+}
+
+#table tr:nth-child(even) {
+    background-color: lightgray;
+}
+
+#table tr:hover {
+    background-color: orange;
+}
