@@ -1,0 +1,31 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.box {
+    background-color: violet;
+    display: inline-block;
+    width: 250px;
+    height: 300px;
+}
+
+.visible {
+    /*normal*/
+    overflow: visible;
+}
+
+.hidden {
+    /*make it hidden*/
+    overflow: hidden;
+}
+
+.scroll {
+    /*add a scroll for overflow*/
+    overflow: scroll;
+}
+
+.auto {
+    /*add a scroll but just necessary*/
+    overflow: auto;
+}
