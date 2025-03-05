@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+ul {
+    list-style: none;
+    padding-left: 0px;
+    background-color: gray;
+    width: 20%;
+}
+
+ul li {
+    padding: 10px;
+}
+
+ul li:hover {
+    background-color: lightgreen;
+    transition: 0.5s;
+}
+
+ul li:first-child {
+    background-color: violet;
+}
+
+ul li a {
+    color: black;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: bold ;
+}
