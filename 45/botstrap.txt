@@ -1,0 +1,6 @@
+Bootstrap nedir ?
+bootstrap bir CSS kütüphanesidir 
+peki neden bootstrap ?
+bootstrap bizi daha hızlı ve verimli bir çalışma şekli sunuyor
+çünkü gereksiz zaman harcamış olmuyoruz zaten yazılmış tasarımları kodları kullanıyoruz
+kısacası bazı kişiler bootstrap içine CSS yazmışlar biz onları kullanıyoruz.
