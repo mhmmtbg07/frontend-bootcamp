@@ -1,0 +1,20 @@
+Bootstrap padding & margin.
+
+m for "margin"
+p for "padding"
+
+t for "top"
+b for "bottom"
+s for (start) "left"
+e for (end) "right"
+
+x for "-left & -right"
+y for "-top & -bottom"
+
+size for
+1
+2
+3
+4
+5
+auto
