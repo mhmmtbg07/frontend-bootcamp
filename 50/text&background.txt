@@ -1,0 +1,31 @@
+                                                    Colors !
+------------------------------------------------------------------------------------------------------------
+primary > blue
+secondary > gray
+warning > yellow
+success > green
+danger > red
+light > light
+dark > dark
+
+                                                    texts !
+------------------------------------------------------------------------------------------------------------
+text-center
+text-end
+text-start
+
+text-primary
+text-secondary
+text-warning
+text-success
+text-danger
+
+text-decoration-none > clear underline
+
+                                                Background colors ! 
+-----------------------------------------------------------------------------------------------------------
+bg-primary
+bg-secondary
+bg-warning
+bg-success
+bg-danger
