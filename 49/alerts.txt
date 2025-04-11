@@ -1,0 +1,9 @@
+Alert classes !
+
+alert > make a alert
+alert-primary > light-blue
+alert-secondary > gray
+alert-success > green
+alert-danger > red
+alert-light > light
+alert-dark > dark
