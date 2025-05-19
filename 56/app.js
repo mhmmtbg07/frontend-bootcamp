@@ -16,6 +16,7 @@ console.log(
     "A & B numbers total:"  ,
     a+b
 );
+
 console.clear();
 
 // Window
