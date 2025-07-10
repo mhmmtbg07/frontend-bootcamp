@@ -1,0 +1,24 @@
+------------- Aray Methods -------------
+
+push : (push method make appends an erray to the end and returns the data)
+unshift :
+
+
+pop :
+shift :
+
+
+splice : (index , incdex) :
+
+
+toString :
+join :
+
+
+concat : 
+slice :
+length :
+reverse : 
+split :
+indexof :
+includes :
